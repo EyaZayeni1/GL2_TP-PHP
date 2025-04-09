@@ -1,0 +1,112 @@
+body {
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 100%;
+}
+
+.etudiant {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    width: 100%;
+    height: 100%;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    border-width: 0.5px;
+    border-style: solid;
+    border-color: rgb(210, 207, 207);
+    border-radius: 3px;
+}
+
+.nom {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-width: 0.5px;
+    border-style: solid;
+    border-color: rgb(210, 207, 207);
+    border-radius: 3px;
+    background-color: rgb(228, 216, 216);
+}
+
+.orangediv {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-width: 0.5px;
+    border-style: solid;
+    border-color: rgb(210, 207, 207);
+    border-radius: 3px;
+    background-color: rgb(251, 204, 119);
+}
+
+.reddiv {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-width: 0.5px;
+    border-style: solid;
+    border-color: rgb(210, 207, 207);
+    border-radius: 3px;
+    background-color: rgb(255, 119, 119);
+}
+
+.greendiv {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-width: 0.5px;
+    border-style: solid;
+    border-color: rgb(210, 207, 207);
+    border-radius: 3px;
+    background-color: rgb(119, 255, 119);
+}
+
+.moyenne {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-width: 0.5px;
+    border-style: solid;
+    border-color: rgb(210, 207, 207);
+    border-radius: 3px;
+    background-color: rgb(119, 204, 255);
+}
